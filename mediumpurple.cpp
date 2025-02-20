@@ -61,8 +61,8 @@ void generate_file_report(const fs::path& directory, const std::string& output_f
     std::string full_output_path = LOG_FOLDER + "/" + output_file;
     
     if (!fs::exists(directory)) {
-        fs::create_directories(directory);
-        log_event("Directory " + directory.string() + " did not exist and was created.");
+        log_event("Error: Directory " + directory.string() + " does not exist.");
+        return;
     }
     
     std::ofstream file(full_output_path);
@@ -89,16 +89,17 @@ void generate_file_report(const fs::path& directory, const std::string& output_f
 
 // Main function to handle user input
 int main(int argc, char* argv[]) {
-    if (argc < 2 || argc > 3) {
-        std::cout << "Usage: " << argv[0] << " [report] [optional: output filename]\n";
+    if (argc < 2 || argc > 4) {
+        std::cout << "Usage: " << argv[0] << " [report] [optional: output filename] [optional: directory]\n";
         return 1;
     }
 
     std::string action = argv[1];
-    std::string output_file = (argc == 3) ? argv[2] : "file_report_" + get_current_time() + ".txt";
+    std::string output_file = (argc >= 3) ? argv[2] : "file_report_" + get_current_time() + ".txt";
+    fs::path directory = (argc == 4) ? argv[3] : SCAN_FOLDER;
 
     if (action == "report") {
-        generate_file_report(SCAN_FOLDER, output_file);
+        generate_file_report(directory, output_file);
     } else {
         std::cout << "Invalid action. Use: report.\n";
         return 1;
@@ -106,3 +107,4 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
