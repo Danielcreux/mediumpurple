@@ -9,9 +9,6 @@
 
 namespace fs = std::filesystem;
 
-const std::string DEFAULT_SIZE_FILE = "file_sizes.txt";
-const std::string BACKUP_FOLDER = "backup";
-const std::string SCAN_FOLDER = "target_folder";
 const std::string LOG_FOLDER = "logs";
 const std::string LOG_FILE = LOG_FOLDER + "/integrity_log.txt";
 
@@ -89,14 +86,14 @@ void generate_file_report(const fs::path& directory, const std::string& output_f
 
 // Main function to handle user input
 int main(int argc, char* argv[]) {
-    if (argc < 2 || argc > 4) {
-        std::cout << "Usage: " << argv[0] << " [report] [optional: output filename] [optional: directory]\n";
+    if (argc < 3 || argc > 4) {
+        std::cout << "Usage: " << argv[0] << " report <directory> [optional: output filename]\n";
         return 1;
     }
 
     std::string action = argv[1];
-    std::string output_file = (argc >= 3) ? argv[2] : "file_report_" + get_current_time() + ".txt";
-    fs::path directory = (argc == 4) ? argv[3] : SCAN_FOLDER;
+    fs::path directory = argv[2];
+    std::string output_file = (argc == 4) ? argv[3] : "file_report_" + get_current_time() + ".txt";
 
     if (action == "report") {
         generate_file_report(directory, output_file);
