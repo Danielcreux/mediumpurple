@@ -5,6 +5,7 @@
 #include <map>
 #include <ctime>
 #include <iomanip>
+#include <chrono>
 
 namespace fs = std::filesystem;
 
@@ -25,7 +26,10 @@ std::string get_current_time() {
 // Function to format file modification time
 std::string get_last_write_time(const fs::path& file_path) {
     auto ftime = fs::last_write_time(file_path);
-    auto cftime = decltype(ftime)::clock::to_time_t(ftime);
+    auto sctp = std::chrono::time_point_cast<std::chrono::system_clock::duration>(
+        ftime - fs::file_time_type::clock::now() + std::chrono::system_clock::now()
+    );
+    std::time_t cftime = std::chrono::system_clock::to_time_t(sctp);
     std::tm* tm = std::localtime(&cftime);
     char buf[80];
     std::strftime(buf, sizeof(buf), "%Y-%m-%d %H:%M:%S", tm);
