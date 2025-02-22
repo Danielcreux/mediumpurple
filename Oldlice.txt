@@ -1,0 +1,284 @@
+Report generated on: 2025-02-20_15-39-47
+------------------------------------------------------------
+File Path                                         Size (bytes)   Last Modified            
+------------------------------------------------------------
+/var/www/html/Oldlice/categoria.php               427            2025-02-18 00:44:49      
+/var/www/html/Oldlice/pagina.php                  430            2025-02-18 00:44:49      
+/var/www/html/Oldlice/producto.php                405            2025-02-18 00:44:49      
+/var/www/html/Oldlice/robots.txt                  108            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/img/logo.svg          3026           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/config.php            250            2025-02-17 23:28:38      
+/var/www/html/Oldlice/front/log/registro.php      2216           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/log/logs.sqlite       12288          2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/log/geoloc.sqlite     58003456       2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/log/logs.db           12288          2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/log/alter table.py    1291           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/log/pais.php          1635           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/estilo/general.css    429            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/js/general.js         50             2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/inc/errores.php       0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/inc/cabeza.php        830            2025-02-18 00:50:24      
+/var/www/html/Oldlice/front/modulos/categoria/categoria.php1722           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/categoria/categoria.js0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/categoria/categoria.css2              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modalpersonalizado/modalpersonalizado.css440            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modalpersonalizado/modalpersonalizado.js0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modalpersonalizado/modalpersonalizado.php292            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/reloj/reloj.js1718           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/reloj/reloj.php1418           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/reloj/reloj.css36             2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/producto/producto.js424            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/producto/producto.php2611           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/producto/producto.css0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/carrusel/carrusel.php1964           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/carrusel/carrusel.js501            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/carrusel/carrusel.css1019           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/piedepagina/piedepagina.php633            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/piedepagina/piedepagina.js592            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/piedepagina/piedepagina.css568            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/pagina/pagina.php246            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/pagina/pagina.js683            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/pagina/pagina.css0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/blog/Imagencv.jpeg43948          2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/blog/blog.css 1123           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/blog/blog.php 364            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/blog/blog.js  2339           2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/oferta/oferta.js436            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/oferta/oferta.php162            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/oferta/oferta.css422            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/cabecera/cabecera.css1419           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/cabecera/cabecera.js3401           2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/cabecera/cabecera.php1355           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/cabecera/funciones.js370            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/bloque/clases/Bloque.php5481           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/bloque/bloque.css1995           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/bloque/bloque.php135            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/bloque/bloque.js0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modal/modal.css449            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modal/modal.php240            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/modal/modal.js0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/heroes/heroes.js1166           2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/heroes/heroes.php433            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/heroes/heroes.css535            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/productosrelacionados/productosrelacionados.css523            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/productosrelacionados/productosrelacionados.js888            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/productosrelacionados/productosrelacionados.php215            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/contacto/contacto.css710            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/contacto/contacto.php1556           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/contacto/contacto.js2737           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/principal/principal.php265            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/destacados/destacados.css245            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/destacados/destacados.js783            2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/destacados/destacados.php339            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/descargo/descargo.css0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/descargo/descargo.php507            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/tienda/Imagencv.jpeg43948          2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/tienda/tienda.php1196           2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/tienda/artilugio.php293            2025-02-17 23:07:56      
+/var/www/html/Oldlice/front/modulos/tienda/tienda.js4743           2025-02-18 00:03:33      
+/var/www/html/Oldlice/front/modulos/tienda/tienda.css3027           2025-02-17 23:07:56      
+/var/www/html/Oldlice/.gitattributes              66             2025-02-17 23:07:56      
+/var/www/html/Oldlice/.htacces                    379            2025-02-18 00:03:33      
+/var/www/html/Oldlice/util/documentacion/docs/admin/login.php/login.php.txt223            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/img/email.png/email.png.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/img/password.png/password.png.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/img/Imagencv.jpeg/Imagencv.jpeg.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/img/fondo.jpg/fondo.jpg.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/img/img.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/impresion.svg/impresion.svg.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/estilo/escritorio.css/escritorio.css.txt44             2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/estilo/estilo.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/estilo/login.css/login.css.txt38             2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/utilidades/utilidades.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/utilidades/phpinfo.php/phpinfo.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/utilidades/error.php/error.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/escritorio.php/escritorio.php.txt194            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/logout.php/logout.php.txt220            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/crud/eliminar.php/eliminar.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/crud/crud.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/crud/insertar.php/insertar.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/actualizar.php/actualizar.php.txt402            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/js/js.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/js/codigo.js/codigo.js.txt44             2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/index.html/index.html.txt274            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/config/config.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/config/config.php/config.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/listadodocumentos.php/listadodocumentos.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/calculapagina.php/calculapagina.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/contenido.php/contenido.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/documentos.php/documentos.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/cabeceras.php/cabeceras.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/tabla.php/tabla.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/camposformulario.php/camposformulario.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/paginador.php/paginador.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/menu.php/menu.php.txt123            2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/formulario.php/formulario.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/documento.php/documento.php.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/docs/admin/inc/inc.txt0              2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/generador.php3405           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/documentacion/index.php3599           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/main.py     3246           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/index4.html 5370           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/JAnaliticas.py2695           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/bots.jpg10847          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/paises.jpg11446          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/navegadores.jpg11437          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/visitaspordia.jpg18256          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/visitasporhora.jpg19700          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/idiomas.jpg10950          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/pantallas.jpg11650          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/visitaspormes.jpg18981          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/visitasporaño.jpg21464          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/sistemasoperativos.jpg11750          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/analiticas/imagenes/paginasvisitadas.jpg17246          2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/Tratamientos de imagenes/bajarresolucion.py1548           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/__pycache__/JAnaliticas.cpython-312.pyc4030           2025-02-17 23:07:56      
+/var/www/html/Oldlice/util/SEO/SEO.py             7579           2025-02-17 23:07:56      
+/var/www/html/Oldlice/blog.php                    517            2025-02-18 00:44:49      
+/var/www/html/Oldlice/basededatos/pedidos/1739202036.json498            2025-02-17 23:07:56      
+/var/www/html/Oldlice/basededatos/pedidos/1739202229.json498            2025-02-17 23:07:56      
+/var/www/html/Oldlice/basededatos/pedidos/1739614315.json372            2025-02-17 23:07:56      
+/var/www/html/Oldlice/basededatos/pedidos/1739224986.json873            2025-02-17 23:07:56      
+/var/www/html/Oldlice/config_sample.php           209            2025-02-18 00:03:33      
+/var/www/html/Oldlice/tienda.php                  401            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.gitignore                  11             2025-02-18 00:03:33      
+/var/www/html/Oldlice/static/heroe1.png           125043         2025-02-17 23:07:56      
+/var/www/html/Oldlice/static/mecanizado.jpg       11351          2025-02-17 23:07:56      
+/var/www/html/Oldlice/static/heroe3.png           149241         2025-02-17 23:07:56      
+/var/www/html/Oldlice/static/heroe2.png           112817         2025-02-17 23:07:56      
+/var/www/html/Oldlice/static/industria.png        114793         2025-02-17 23:07:56      
+/var/www/html/Oldlice/static/servicios.png        96983          2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/ORIG_HEAD              41             2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/packed-refs            112            2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/logs/HEAD              2298           2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/logs/refs/remotes/origin/HEAD179            2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/logs/refs/remotes/origin/main2119           2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/logs/refs/heads/main   2298           2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/HEAD                   21             2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/index                  19195          2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/info/exclude           240            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/objects/93/95b8cc3a79dfd1a7ca3889323120d23ab1388d186            2025-02-18 00:34:30      
+/var/www/html/Oldlice/.git/objects/cf/7557115e2abb409796021ac21db10dcac1c3c7144            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/27/d766c5e83bc321c21d3fa613edb09a0fd0b12387             2025-02-18 00:38:38      
+/var/www/html/Oldlice/.git/objects/c9/80fd1fb44ca820ecfc2169dfb4505b0af19e2a186            2025-02-18 00:12:06      
+/var/www/html/Oldlice/.git/objects/85/72d6b56678104ff33617d998b31ca9f21dafac663            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/eb/a722557b91c1b891c0ce6dc055f91ef028b6b0179            2025-02-18 00:05:22      
+/var/www/html/Oldlice/.git/objects/3e/556f08b7395fa993ef4a27c18a180dabd5fb63633            2025-02-18 00:05:22      
+/var/www/html/Oldlice/.git/objects/00/b35a3c8dc05070270a874df91c57cfe523c90087             2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/8e/856239f3a0c415ee3138063940a451362e3bc0185            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/7b/ee0ea4217f91e58bbf41ed369bee54e58ce03f204            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/cc/6a7c439d2b322c0f27f7f1689ff2f260a41334350            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/11/e9fd970ee9c3e40a4901d1c94121a37646007e190            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/11/e0fe7ab6138faa3aa90910b5e1485528fe0cee157            2025-02-18 00:34:30      
+/var/www/html/Oldlice/.git/objects/5f/653482fdc5dfb8199605886d809db6aa423328633            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/5f/872f2c87d62ff802bca4bb911db00e3ee9c437632            2025-02-18 00:38:38      
+/var/www/html/Oldlice/.git/objects/ad/b0b7cab6d3b82e0f92e8fb3c501fb71a5ad6ab156            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/aa/7eb6c1305400069334d9965e4a789fb6ec3344266            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/4c/aa713e5bcef0e503bac83ba9addc821ff7ffa0146            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/13/10092146b41d5c4b488fd52e08c45cc048b9ab132            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/18/22d199f7b8599f850747af17e55be3d8354e7c58             2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/e1/6fa9359fc8b1ce2ba2e88ce6a4f2309994d500632            2025-02-18 00:12:06      
+/var/www/html/Oldlice/.git/objects/b0/4e63dc7869d062d3483f7f2d5fe71faa830861598            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/a7/2a1c966cef66a5d66ae7c96f99f51e482253aa212            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/6c/70b83d54172ae2d89ca1894452974dead0a33e161            2025-02-18 00:15:25      
+/var/www/html/Oldlice/.git/objects/60/4232db97e98294c84f247870febf817cbccff4195            2025-02-18 00:09:44      
+/var/www/html/Oldlice/.git/objects/42/38261b7cc10a1bcd55f81eac57f7944836606a836            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/91/7814a704876039ee6ad096c1407566aaca339d155            2025-02-18 00:38:38      
+/var/www/html/Oldlice/.git/objects/43/b54170018670ea82dbf8e95e27d4ef99a445e087             2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/d0/d35decc536ef23f3741f4afaabc311ebe2f80b557            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/d0/95f100e215e9f51605cda8717199f15e27b5d5269            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/d0/3ee1b53385195d3c74502232e82be9258a17db109            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/7c/38901be9f30b557a3b06bdcaa3c81224c9ae65180            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/7c/669a7673b3e77e8f714a1628e4732a307bf7c259             2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/d1/b7ff29870c6b1834a671208aecb2d7e35b005a166            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/0b/d821809bf807d20b6b32bc4a150ebbcd5b2410114            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/73/4f3594bd0edb50bd3e0d10d844fdd0d425efc5707            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/ce/b9884ca8df6ab651307a7ed41bd734fba69efb233            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/a6/f7367514bd913fd66ee9c5173d21fd175057eb186            2025-02-18 00:15:25      
+/var/www/html/Oldlice/.git/objects/84/e41789ed8c4c3874a095fd47544e793f030162719            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/84/242417f73317c4c8d23c0200c9488f19bcbcdd442            2025-02-18 00:34:30      
+/var/www/html/Oldlice/.git/objects/bd/880a74313b97ee37371a307a040461c578edaf187            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/d5/f76e3679489f88f56b31934f2503635bee1bfa632            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/c8/a6f8e3253f0b30503e174be97db88180380d6f88             2025-02-18 00:12:06      
+/var/www/html/Oldlice/.git/objects/c8/f5e7a238c62eb752163afc1f3c8b67058e4184447            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/52/539a9d0d50af4f3408f296b0cfcc7cab3db9441786           2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/25/de38109c6099420f2619bd106a1330689f9f50230            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/ca/2018bf45487b7264f8a45f6dbd0e919482e760110            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/55/13d55a8312782e6e087c1db4a4d367a6fadaee631            2025-02-18 00:35:26      
+/var/www/html/Oldlice/.git/objects/f4/c6a637ea2546a7a2d4299282d999ac265b132e159            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/4e/7294829a02c971fbf44a04f9f172166295b52b181            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/4b/c31475d50549550e24bf2bcfb06a6bfa7a14fb163            2025-02-18 00:12:06      
+/var/www/html/Oldlice/.git/objects/a0/eed34e7f4d0cb1ce5b162214526b39a2fcc151632            2025-02-18 00:15:25      
+/var/www/html/Oldlice/.git/objects/1c/d7728fa085298b0be6917393d7532377247af7156            2025-02-18 00:36:24      
+/var/www/html/Oldlice/.git/objects/1c/bea9b7f55ea385d6b4e9f45ffe390aef0d4856108            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/fa/c0e7d939ab6666a304e204fd33bf98fb6d4c0e445            2025-02-18 00:35:26      
+/var/www/html/Oldlice/.git/objects/3f/2926347b662325e47b676e0882859e5bdd89e5487            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/a3/ee7fd78b252a0aa2049b046894cd0d9132c837381            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/dd/f3bfb5110942aba588d7c34a7ea611da13f502229            2025-02-18 00:44:49      
+/var/www/html/Oldlice/.git/objects/71/c4407ced7a7af168cadb9c2a8d38416c23e4e0633            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/3d/4dcf78a1573414cfedb03a5da8625f3a3a90e0156            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/3d/bb1bc7638b643f880960c214a888b50199eb5e133            2025-02-17 23:21:27      
+/var/www/html/Oldlice/.git/objects/68/cc3797a25923fa890acda89e39b0b4ae236c1d88             2025-02-18 00:35:26      
+/var/www/html/Oldlice/.git/objects/0e/608ace0f64db876c14bbff2d52a5bfa4f5052e180            2025-02-18 00:09:44      
+/var/www/html/Oldlice/.git/objects/0e/787fddb55fd7ce0504884b5b6170a639c7dbfd156            2025-02-18 00:35:26      
+/var/www/html/Oldlice/.git/objects/07/060834140596c63fa8990d727826062b4306fc664            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/07/bc71e124d52292e0b21a0f778c1816029d0585186            2025-02-18 00:35:26      
+/var/www/html/Oldlice/.git/objects/6a/5dc69ef51639890181437b84fc5b725bf3a05a125            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/6a/ef0b85e38297a8d339da9c094de8bfc3b729fb408            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/76/1890e2411c6e890310d97e3028b3f4f71c0bf4633            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/fd/c405549c4ac466f7dcaab519b02af5dd0af39b446            2025-02-18 00:12:06      
+/var/www/html/Oldlice/.git/objects/f3/f8da9ab8c823ae4d80dd05ec0473f88a267a8950             2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/8d/5af0a86c7b2860a75592ffb8456631120097f81356           2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/3c/cb1459c71b47ec9add5ad175078d5567d2a70d235            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/objects/57/bc16e5237b96abbe8106cfa3d82f22ffabcf43631            2025-02-18 00:34:30      
+/var/www/html/Oldlice/.git/objects/23/7eb7ebdbdbb4f822e4cecb49f741c52e018d41186            2025-02-18 00:38:38      
+/var/www/html/Oldlice/.git/objects/a1/c99734cbb6d68bbe54eb5e6119604c858a1179396            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/d7/44be3d29b254b1a3f06725563c37e0ed873730290            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/d7/25cec963a4f33dbff706587536315e768cf8d8186            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/e5/8996d4313b910f87412bca50ef65fca1244df1450            2025-02-18 00:38:38      
+/var/www/html/Oldlice/.git/objects/59/21a394500414400a8e96aff3c892a366de5327465            2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/objects/4f/4260c103e9dbd55af8da98f707c6322c1df04a87             2025-02-18 00:34:30      
+/var/www/html/Oldlice/.git/objects/4f/463b7e0e6c0d65b26b3be47c340fc8aea4815f114            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/4f/4773fb3403f3ec4097ab7c7b1fdec23b9aa92427             2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/9d/7c3c42878f5acfd07c6eaab31d2d001e539eb6183            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/b4/335069a1c590941306f63734844fd661ae23d1188            2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/b4/4cbb849966f143b8eda12daa849072a2d3e5b055             2025-02-18 00:03:33      
+/var/www/html/Oldlice/.git/objects/pack/pack-ea0f4387cb45ff0a83bb4b7c9427517548a5567a.pack14039259       2025-02-18 00:15:25      
+/var/www/html/Oldlice/.git/objects/pack/pack-ea0f4387cb45ff0a83bb4b7c9427517548a5567a.rev884            2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/objects/pack/pack-ea0f4387cb45ff0a83bb4b7c9427517548a5567a.idx6896           2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/objects/9e/fb2eac57ee72b34ba8b2fd416a6522fcc93f8b631            2025-02-18 00:39:35      
+/var/www/html/Oldlice/.git/refs/remotes/origin/HEAD30             2025-02-17 23:07:56      
+/var/www/html/Oldlice/.git/refs/remotes/origin/main41             2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/refs/heads/main        41             2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/description            73             2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-receive.sample544            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-merge-commit.sample416            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-push.sample  1374           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/update.sample    3650           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/sendemail-validate.sample2308           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-applypatch.sample424            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/fsmonitor-watchman.sample4726           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/push-to-checkout.sample2783           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/post-update.sample189            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-rebase.sample4898           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/commit-msg.sample896            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/pre-commit.sample1643           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/prepare-commit-msg.sample1492           2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/hooks/applypatch-msg.sample478            2025-02-17 23:07:47      
+/var/www/html/Oldlice/.git/FETCH_HEAD             90             2025-02-18 00:50:24      
+/var/www/html/Oldlice/.git/config                 259            2025-02-17 23:07:56      
+/var/www/html/Oldlice/server_data.csv             3385           2025-02-18 00:03:33      
+/var/www/html/Oldlice/index.php                   456            2025-02-18 00:09:45      
+/var/www/html/Oldlice/back/panel.php              4485           2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/clases/ConexionBD.php  2266           2025-02-18 00:03:33      
+/var/www/html/Oldlice/back/delete_json.php        755            2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail.php               1626           2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/index.php              1454           2025-02-18 00:50:24      
+/var/www/html/Oldlice/back/inc/error.php          2074           2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail/1737659028.json   108            2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail/1737658795.json   109            2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail/1737658699.json   116            2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail/1737661638.json   102            2025-02-17 23:07:56      
+/var/www/html/Oldlice/back/mail/1737661859.json   101            2025-02-17 23:07:56      
+/var/www/html/Oldlice/contacto.php                441            2025-02-18 00:44:49      
+/var/www/html/Oldlice/sitemap.xml                 653            2025-02-18 00:03:33      
